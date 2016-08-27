@@ -4,6 +4,11 @@ nodeTwitter
 A simple twitter clone for testing new technologies like AngularJS, NodeJS and MongoDB.
 
 
+Preview
+============
+
+[![image host](http://4.t.imgbox.com/QkPtEs7K.jpg)](http://i.imgbox.com/QkPtEs7K.png) [![image host](http://8.t.imgbox.com/V4bl5W5j.jpg)](http://i.imgbox.com/V4bl5W5j.png) [![image host](http://0.t.imgbox.com/5aOFzmgc.jpg)](http://i.imgbox.com/5aOFzmgc.png)
+
 Installation
 ============
 
