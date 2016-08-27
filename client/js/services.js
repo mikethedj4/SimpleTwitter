@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('simpleTwitter.services', [])
+angular.module('nodeTwitter.services', [])
 	.factory('nowTime', ['$timeout',function($timeout) {
 		var nowTime;
 		(function updateTime() {

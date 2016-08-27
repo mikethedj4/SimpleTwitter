@@ -1,7 +1,7 @@
 {
-	"port": 2010,
+	"port": 8080,
 	"mongoose": {
-		"uri": "mongodb://localhost/SimpleTwitter",
+		"uri": "mongodb://localhost/nodeTwitter",
 		"options": {}
 	},
 	"auth": {

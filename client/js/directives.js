@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('simpleTwitter.directives', [])
+angular.module('nodeTwitter.directives', [])
 	.directive('tweetLength', function() {
 		return function(scope, element, attrs) {
 			var maxLength = attrs.maxLength;

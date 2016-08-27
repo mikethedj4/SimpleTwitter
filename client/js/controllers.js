@@ -34,6 +34,20 @@ function NavbarController($scope, $location) {
 		$scope.$safeApply($scope);
 	});
 }
+function BGController($scope, $location) {
+	//Handling login event
+	$scope.$on('login', function(event, args) {
+		$scope.isLoggedIn = true;
+		$scope.user = args[0];
+		$scope.$safeApply($scope);
+	});
+	$scope.$on('logout', function(event, args) {
+		$scope.isLoggedIn = false;
+		$scope.user = null;
+		$scope.$safeApply($scope);
+	});
+}
+BGController.$inject = ['$scope', '$location'];
 NavbarController.$inject = ['$scope', '$location'];
 
 

@@ -1,5 +1,5 @@
 {
-	"name": "simple-twitter-server",
+	"name": "node-twitter-server",
 	"description": "The simple twitter server part",
 	"version": "0.0.1",
 	"author": "Florian Krauthan",
