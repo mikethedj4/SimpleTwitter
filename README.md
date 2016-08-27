@@ -1,4 +1,4 @@
-SimpleTwitter
+nodeTwitter
 =============
 
 A simple twitter clone for testing new technologies like AngularJS, NodeJS and MongoDB.
